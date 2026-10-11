@@ -35,6 +35,14 @@ public class SalesforceLoginPage {
         PageFactory.initElements(driver, this);
     }
 
+    public WebDriver getDriver() {
+        return this.driver;
+    }
+
+    public String getPageTitle() {
+        return driver.getTitle();
+    }
+
     public void enterUsername(String username) throws Exception {
         try {
             wait.until(ExpectedConditions.visibilityOf(usernameInput));
