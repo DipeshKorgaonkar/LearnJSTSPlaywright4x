@@ -1,6 +1,8 @@
-# Maven build artifacts
+# Maven and IDE build artifacts
 target/
 **/target/
+bin/
+**/bin/
 *.class
 
 # TestNG & Test Reports
