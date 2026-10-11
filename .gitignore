@@ -1,0 +1,24 @@
+# Maven build artifacts
+target/
+**/target/
+*.class
+
+# TestNG & Test Reports
+test-output/
+reports/
+surefire-reports/
+
+# Logs
+*.log
+
+# Node & Playwright dependencies (for future modules)
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
