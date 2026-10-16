@@ -1,0 +1,23 @@
+{
+  "name": "learnjstsplaywright4x",
+  "version": "1.0.0",
+  "description": "Testing playwright",
+  "keywords": [
+    "Test"
+  ],
+  "homepage": "https://github.com/DipeshKorgaonkar/LearnJSTSPlaywright4x#readme",
+  "bugs": {
+    "url": "https://github.com/DipeshKorgaonkar/LearnJSTSPlaywright4x/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DipeshKorgaonkar/LearnJSTSPlaywright4x.git"
+  },
+  "license": "ISC",
+  "author": "Dipesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
