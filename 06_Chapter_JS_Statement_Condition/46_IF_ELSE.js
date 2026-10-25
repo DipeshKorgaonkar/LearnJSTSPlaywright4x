@@ -1,7 +1,7 @@
 let age =16;
 if(age > 18){
-    console.log("Yes");
+    console.log("Go Goa");
 }
 else{
-    console.log("No");
+    console.log("No Goa");
 }

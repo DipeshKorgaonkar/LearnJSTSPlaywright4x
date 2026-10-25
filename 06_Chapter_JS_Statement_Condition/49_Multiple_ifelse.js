@@ -1,5 +1,22 @@
 // Problem Statement;
-let score = -1;
+
+// Score - 0 to 100
+
+// Score > 90 -> A
+
+//Score 80 to 90 -> B
+
+//Score 70 to 80 -> C
+
+// Score 60 to 70 -> D
+
+// Score 50 to 60 -> E
+
+// Score less then 60 -> F (FAIL)
+
+let score = 56;
+
+// Score will be int alway as mentioned in the problem statement which will be inclusive of 0 to 100 
 
 if (score > 100 || score < 0) {
     console.log("Invalid Score");
