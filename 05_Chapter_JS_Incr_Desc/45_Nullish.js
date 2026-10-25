@@ -11,7 +11,7 @@ let api_response1 ="Dipesh";
 let responsedata1 = api_response1 ?? "{}";
 console.log(responsedata1)
 
-
+//sdas
 // Its is called Nullish Coalescing
 
 // This operator makes sure that if the value is null, then the RHS value will be assigned
