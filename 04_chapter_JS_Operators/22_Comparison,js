@@ -1,0 +1,31 @@
+// Comparison Operator  
+
+// = - Assignment operator 
+
+//  ==, ===
+
+// == -> Losse Comparasion (sikh vs hindu)
+// === -> strict comparison (sikh vs hindu, language, living)
+
+
+pizza == pizza // (type)
+dominos === pizzhut // (type and content)  
+
+// <, >, >= and <=
+
+console.log(3>4);
+console.log(3<4);
+
+console.log (4 >=4); // (4>4 or 4 == 4 , or gate)
+
+console.log(5 == "5"); // lose couple comparison, value 
+console.log(5 === "5"); // lose couple comparison, value 
+
+// ! - Not char
+
+console.log(5 != "5");
+
+console.log(5 !== "5"); // (with ! and ==, its equavalent to ===)
+
+
+console.log(5 === 5);
