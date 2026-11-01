@@ -1,6 +1,11 @@
-let attempt=0;
+let i=0;
 
-while (attempt < 3) {
-    console.log("Attempt" );
-    attempt++;
+while (i < 10) {
+    console.log(i);
+    i++;
 }
+
+// let i1=0;
+// for (; i1 < 10; i1++) {
+//     console.log(i1);
+// }
